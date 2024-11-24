@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158896992474",
+    "project_id": "comet-33b46",
+    "storage_bucket": "comet-33b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158896992474:android:4e81c24566cb1589d135e3",
+        "android_client_info": {
+          "package_name": "com.example.logiii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHNw6w1SPH7jToDeyiVJrMx8eLyW_E5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
